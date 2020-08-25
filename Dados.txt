@@ -1,2 +1,3 @@
-a) Nome: Wesley
-c) Email: wesleypires@uni9.edu.br
+Nome: Wesley
+Email: wesleypires@uni9.edu.br
+Mês de Nascimento: Maio
