@@ -1,2 +1,3 @@
-1. RA - 920128405
-2. Curso - TADS
+RA - 920128405
+Curso - TADS
+Disciplina - Programação Back-end
